@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'ELC'
-date: 2016-02-20 15:56:00
+date: 2020-10-18 22:00:00
 categories: development
 tags: Salesforce LWC JavaScript Apex 
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
