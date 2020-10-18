@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Certifications'
 date: 2020-10-18 22:00:00
 categories: development
