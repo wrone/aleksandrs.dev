@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'ELC'
+title: 'Certifications'
 date: 2016-02-20 15:56:00
 categories: development
 tags: Certifications
