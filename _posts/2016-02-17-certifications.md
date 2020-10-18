@@ -6,8 +6,8 @@ date: 2016-02-20 15:56:00
 categories: development
 tags: Certifications
 featured_image: ''
-project_link: 'http://github.com/jamigibbs/weathercast'
-button_icon: 'github'
-button_text: 'Visit Project'
+project_link: ''
+button_icon: ''
+button_text: ''
 lead_text: 'Certs'
 ---
