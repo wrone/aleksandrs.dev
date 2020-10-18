@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Certifications'
+title: 'My Certifications'
 date: 2020-10-18 22:00:00
 categories: development
 tags: PD1 PD2 SysArch
