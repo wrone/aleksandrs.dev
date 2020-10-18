@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Certifications'
-date: 2016-02-20 15:56:00
+date: 2020-10-18 23:00:00
 categories: development
 tags: Certifications
 featured_image: '/img/posts/my_certs.png'
