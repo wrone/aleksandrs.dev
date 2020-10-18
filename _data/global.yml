@@ -2,7 +2,7 @@
 title: "Hello. I'm Aleksandrs Savkins."
 description: "I'm a Salesforce developer from Riga."
 url: 'https://github.com/wrone/phantom' # the base hostname & protocol for your site
-nav: "true"
+nav: "false"
 footer_text: '© 2020 Aleksandrs Savkins'
 twitter: 'jamigibbs'
 github: 'jamigibbs'
