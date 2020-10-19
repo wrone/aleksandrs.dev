@@ -29,7 +29,10 @@
   
   <!-- FontAwesome -->
   <script src="https://kit.fontawesome.com/56514fcf88.js" crossorigin="anonymous"></script>
-
+  
+  <!-- jekyll-seo-tag -->
+  {% seo %}
+  
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
 
