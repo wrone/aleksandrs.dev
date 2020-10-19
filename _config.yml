@@ -73,9 +73,9 @@ kramdown:
 
 include: ['_pages']
 
-
-title: "Some title"
-tagline: "some desc"
-description: "Some longer desc"
+# jekyll-seo-tag config
+title: "Aleksandrs.Dev"
+tagline: "Salesforce Developer"
+description: "I'm a Salesforce developer from Riga, Latvia."
 url: "aleksandrs.dev"
 author: "Aleksandrs Savkins"
