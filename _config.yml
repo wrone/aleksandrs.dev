@@ -72,3 +72,10 @@ kramdown:
 
 
 include: ['_pages']
+
+
+title: "Some title"
+tagline: "some desc"
+description: "Some longer desc"
+url: "aleksandrs.dev"
+author: "Aleksandrs Savkins"
