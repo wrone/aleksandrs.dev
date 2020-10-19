@@ -74,13 +74,18 @@ kramdown:
 include: ['_pages']
 
 # jekyll-seo-tag config
-title:    "Aleksandrs.Dev"
-tagline:  "Salesforce Developer"
-# description: "I'm a Salesforce developer from Riga, Latvia."
-#url: "aleksandrs.dev"
-#author: "Aleksandrs Savkins"
-#social:
-#  name: "Aleksandrs Savkins"
-#  links:
-#    - https://www.linkedin.com/in/aleksandrs-savkins
-#    - https://trailblazer.me/id/aleksandrs-savkins
+title: "Aleksandrs.Dev"
+tagline: "Salesforce Developer"
+#description: "Salesforce Developer"
+description: -> I'm a Salesforce developer from Europe (Riga, Latvia), 
+  experienced in Apex and Lightning (Aura, Lightning Web Components) development, 
+  integrating 3rd party services, 
+  developing Salesforce REST/SOAP APIs, 
+  declarative customization.
+url: "aleksandrs.dev"
+author: "Aleksandrs Savkins"
+social:
+  name: "Aleksandrs Savkins"
+  links:
+    - https://www.linkedin.com/in/aleksandrs-savkins
+    - https://trailblazer.me/id/aleksandrs-savkins
