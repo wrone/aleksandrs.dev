@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'My Certifications'
+title: 'My certifications'
 date: 2020-10-18 22:00:00
 categories: development
 tags: System+Architect Platform+Developer+I Platform+Developer+II Identity+and+Access+Management+Designer Development+Lifecycle+and+Deployment+Designer Integration+Architecture+Designer Platform+App+Builder
