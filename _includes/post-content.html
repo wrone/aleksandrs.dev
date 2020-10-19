@@ -8,7 +8,7 @@
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
-    <span>{{ tag | replace: " ","+" }}</span>
+    <span>{{ tag | replace: "+", " " }}</span>
     {% endfor %}
   </div>
   {% endif %}
