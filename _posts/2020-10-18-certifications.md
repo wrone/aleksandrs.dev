@@ -8,6 +8,6 @@ tags: System+Architect Platform+Developer+I Platform+Developer+II Identity+and+A
 featured_image: './img/posts/my_certs.png'
 project_link: 'https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=RvOoAAGJRm10MvT4BB8OzPxFJCcqMdOOK2usGqRy54N34XuO7BkyjhBmBSbib2pA'
 button_icon: 'fab fa-salesforce'
-button_text: 'Verification'
+button_text: 'Verify'
 lead_text: 'I have 7 Salesforce certifications'
 ---
