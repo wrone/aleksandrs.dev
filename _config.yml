@@ -77,7 +77,7 @@ include: ['_pages']
 title: "Aleksandrs.Dev"
 tagline: "Salesforce Developer"
 #description: "Salesforce Developer"
-description: -> I'm a Salesforce developer from Europe (Riga, Latvia), 
+description: I’m a certified Salesforce developer from Europe (Riga, Latvia), 
   experienced in Apex and Lightning (Aura, Lightning Web Components) development, 
   integrating 3rd party services, 
   developing Salesforce REST/SOAP APIs, 
