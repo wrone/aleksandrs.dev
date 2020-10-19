@@ -25,6 +25,9 @@
   <!-- Styles -->
   <link rel="stylesheet" href="{{ "/css/animate.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  
+  <!-- FontAwesome -->
+  <script src="https://kit.fontawesome.com/56514fcf88.js" crossorigin="anonymous"></script>
 
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
