@@ -75,12 +75,12 @@ include: ['_pages']
 
 # jekyll-seo-tag config
 title: "Aleksandrs.Dev"
-tagline: Salesforce Developer
+tagline: "Salesforce Developer"
 # description: "I'm a Salesforce developer from Riga, Latvia."
-url: "aleksandrs.dev"
-author: "Aleksandrs Savkins"
-social:
-  name: Aleksandrs Savkins
-  links:
-    - https://www.linkedin.com/in/aleksandrs-savkins
-    - https://trailblazer.me/id/aleksandrs-savkins
+#url: "aleksandrs.dev"
+#author: "Aleksandrs Savkins"
+#social:
+#  name: "Aleksandrs Savkins"
+#  links:
+#    - https://www.linkedin.com/in/aleksandrs-savkins
+#    - https://trailblazer.me/id/aleksandrs-savkins
