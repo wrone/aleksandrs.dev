@@ -79,3 +79,7 @@ tagline: "Salesforce Developer"
 description: "I'm a Salesforce developer from Riga, Latvia."
 url: "aleksandrs.dev"
 author: "Aleksandrs Savkins"
+social:
+  links:
+    - https://www.linkedin.com/in/aleksandrs-savkins
+    - https://trailblazer.me/id/aleksandrs-savkins
