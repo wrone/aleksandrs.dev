@@ -81,6 +81,9 @@ button.btn, input.btn {
     @include horizontal-align;
     margin-bottom: 0.5em;
   }
+  @media only screen and (max-width : 600px) {
+    margin-bottom: 1.5em;
+  }
 }
 
 .main {
