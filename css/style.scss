@@ -315,6 +315,9 @@ button.btn, input.btn {
   margin-top: 2em;
   border-top: 1px solid #efefef;
   padding: 1em 0;
+  @media only screen and (max-width : 320px) {
+    font-size: 16px;
+  }
   p {
     font-size: 12px;
     font-weight: 600;
@@ -323,6 +326,9 @@ button.btn, input.btn {
     padding: 10px 0;
     @include bp-xsmall {
       text-align: center;
+    }
+    @media only screen and (max-width : 320px) {
+      font-size: 16px;
     }
   }
   .section-jump {
