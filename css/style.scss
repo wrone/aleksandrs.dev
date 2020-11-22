@@ -315,7 +315,7 @@ button.btn, input.btn {
   margin-top: 2em;
   border-top: 1px solid #efefef;
   padding: 1em 0;
-  @media only screen and (max-width : 320px) {
+  @media only screen and (max-width : 600px) {
     font-size: 16px;
   }
   p {
@@ -327,7 +327,7 @@ button.btn, input.btn {
     @include bp-xsmall {
       text-align: center;
     }
-    @media only screen and (max-width : 320px) {
+    @media only screen and (max-width : 600px) {
       font-size: 16px;
     }
   }
